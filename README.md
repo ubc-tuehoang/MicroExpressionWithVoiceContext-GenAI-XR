@@ -1,3 +1,9 @@
+
+- Dare to dream
+- Ignite your inspiration and innovation
+- Strive for excellence
+- Explore together & unlock the world's knowledge
+
 # MicroExpressionWithVoiceContext-GenAI-XR
 An inflection point in human interactions facilitated by GenAI and XR in both visual and audio domains.
 
